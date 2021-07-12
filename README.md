@@ -1,2 +1,9 @@
 # print-my-name
-U can check this code and run also.... U can create your name
+
+#include<iostream>
+using namespace std;
+int main() 
+{
+  cout<<"Muneeb ahmed Bali ";
+return 0;
+}
